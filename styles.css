@@ -929,6 +929,10 @@ blockquote {
     display: none;
   }
 
+  .nav .btn {
+    margin-left: auto;
+  }
+
   .hero {
     grid-template-columns: 1fr;
     min-height: 0;
